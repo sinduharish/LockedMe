@@ -199,6 +199,7 @@ class Exit {
 public class Lockedme {
 
 	public static void main(String[] args) {
+		System.out.println("Test");
 
 		Menu m = new Menu();
 
